@@ -6,7 +6,7 @@ Bytesize Gamedev is a series of short videos about mini gamedev tips, primarily 
 
 ## Overview
 
-The video to go along with this repository can be found on [YouTube](https://www.youtube.com/watch?v=iRegHo8_GBk), with an extended thread on [Twitter]().
+The video to go along with this repository can be found on [YouTube](https://www.youtube.com/watch?v=iRegHo8_GBk), with an extended thread on [Twitter](https://twitter.com/daniel_ilett/status/1355212406163697667).
 
 ## Software
 
